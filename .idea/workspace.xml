@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe45d36c-2add-4b5e-a96b-fd31aef0f9d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Übung Javadoc/src/Javadocmath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Semester_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Semester_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/Test Projekt.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Test Projekt/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webtechnologien/Übungen/Kapitel 4/Exercis_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webtechnologien/Übungen/Kapitel 4/Exercis_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,7 +115,7 @@
       <workItem from="1569317011447" duration="159000" />
       <workItem from="1569317322049" duration="2406000" />
       <workItem from="1569319877800" duration="675000" />
-      <workItem from="1569323664662" duration="1804000" />
+      <workItem from="1569323664662" duration="2065000" />
     </task>
     <servers />
   </component>
