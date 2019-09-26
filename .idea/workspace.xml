@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe45d36c-2add-4b5e-a96b-fd31aef0f9d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_5/Exercise5_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Aufgabe4_1/src/Fakultaet_4_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Aufgabe4_1/src/Summe_4_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Java_Nuggets/src/N2_Gleitkomma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Übung Javadoc/src/Modulo10Rekursiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_5/Exercise5_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Semester_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Semester_3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/production/Semester_3/Javadocmath.class" beforeDir="false" afterPath="$PROJECT_DIR$/Output/production/Semester_3/Javadocmath.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Übung Javadoc/src/Javadocmath.java" beforeDir="false" afterPath="$PROJECT_DIR$/Softwarekonzepte/Übung Javadoc/src/Javadocmath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +42,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,13 +63,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Softwarekonzepte/Übung Javadoc/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Softwarekonzepte\Übung Javadoc\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,9 +91,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Javadocmath">
+  <component name="RunManager" selected="Application.N2_Gleitkomma">
     <configuration name="Javadocmath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Javadocmath" />
+      <module name="Semester_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N2_Gleitkomma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N2_Gleitkomma" />
+      <module name="Semester_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Summe_4_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Summe_4_1_1" />
       <module name="Semester_3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,10 +118,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.Javadocmath" />
+      <item itemvalue="Application.N2_Gleitkomma" />
+      <item itemvalue="Application.Summe_4_1_1" />
       <item itemvalue="JavaScript Debug.Seite_2.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N2_Gleitkomma" />
+        <item itemvalue="Application.Summe_4_1_1" />
         <item itemvalue="Application.Javadocmath" />
         <item itemvalue="JavaScript Debug.Seite_2.html" />
       </list>
@@ -117,7 +152,8 @@
       <workItem from="1569317011447" duration="159000" />
       <workItem from="1569317322049" duration="2406000" />
       <workItem from="1569319877800" duration="675000" />
-      <workItem from="1569323664662" duration="11471000" />
+      <workItem from="1569323664662" duration="20249000" />
+      <workItem from="1569432586336" duration="899000" />
     </task>
     <servers />
   </component>

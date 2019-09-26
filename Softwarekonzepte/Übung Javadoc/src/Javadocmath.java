@@ -1,5 +1,5 @@
 public class Javadocmath {
-    public static void main(String[] args) {
+    public void main(String[] args) {
         test();
     }
 
@@ -18,8 +18,9 @@ public class Javadocmath {
      * <h1>Returns:</h1>
      * the positive root....
      */
-    private static void test(){
+    private void test(){
 
         System.out.println("Test");
     }
+
 }

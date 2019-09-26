@@ -6,6 +6,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Softwarekonzepte/Übung Javadoc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Softwarekonzepte/Java_Nuggets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Softwarekonzepte/Aufgabe4_1/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
