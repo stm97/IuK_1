@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe45d36c-2add-4b5e-a96b-fd31aef0f9d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/images/jenskitchen.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/images/spoon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/recipes/pasta/couscous.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/recipes/pasta/linguine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/recipes/salmon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen/recipes/tapenade.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -152,7 +144,7 @@
       <workItem from="1569317322049" duration="2406000" />
       <workItem from="1569319877800" duration="675000" />
       <workItem from="1569323664662" duration="20249000" />
-      <workItem from="1569432586336" duration="6325000" />
+      <workItem from="1569432586336" duration="6649000" />
     </task>
     <servers />
   </component>
