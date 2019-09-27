@@ -1,14 +1,17 @@
 public class Fakultaet_4_1_2 {
-
-    private void Fakultaet(int n){
-        int fakultaet;
+    public static void main(String[] args) {
+        Fakultaet();
+    }
+    private static void Fakultaet(){
+        int n = 9;
+        int fakultaet = 1;
         int i = 1;
         while (i<=n)
         {
-           n *= i;
+           fakultaet *= i;
            i++;
         }
-        fakultaet = n;
+
         System.out.println(fakultaet);
 
     }
