@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe45d36c-2add-4b5e-a96b-fd31aef0f9d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Aufgabe4_1/src/Fibonacci_4_1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softwarekonzepte/Aufgabe4_1/src/GGT_4_1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webprogrammierung/Kapitel_2/Aufgabe_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webprogrammierung/Kapitel_2/Aufgabe_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webprogrammierung/Kapitel_2/lion.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/production/Semester_3/Fakultaet_4_1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Output/production/Semester_3/Fakultaet_4_1_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softwarekonzepte/Aufgabe4_1/src/Fakultaet_4_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Softwarekonzepte/Aufgabe4_1/src/Fakultaet_4_1_2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6/jenskitchen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Webprogrammierung/Kapitel_2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -70,6 +68,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Webprogrammierung\Kapitel_2" />
       <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Webtechnologien\Uebungen\Kapitel_6\jenskitchen" />
       <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Softwarekonzepte\Übung Javadoc\src" />
     </key>
@@ -161,7 +160,7 @@
       <workItem from="1569317322049" duration="2406000" />
       <workItem from="1569319877800" duration="675000" />
       <workItem from="1569323664662" duration="20249000" />
-      <workItem from="1569432586336" duration="9959000" />
+      <workItem from="1569432586336" duration="14048000" />
     </task>
     <servers />
   </component>
