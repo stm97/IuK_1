@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe45d36c-2add-4b5e-a96b-fd31aef0f9d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/bread.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/burgers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/fish.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/photos/bread-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/photos/burgers-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/photos/chicken-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/photos/fish-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/photos/fries-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/photos/tabouleh-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/tabouleh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/thumbnails/bread-200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/thumbnails/burgers-200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/thumbnails/chicken-200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/thumbnails/fish-200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/thumbnails/fries-200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1/thumbnails/tabouleh-200.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +69,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Webtechnologien/Uebungen/Kapitel_7/Exercise_7_1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -66,6 +82,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Webtechnologien\Uebungen\Kapitel_7\Exercise_7_1" />
       <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Webtechnologien\Uebungen\Kapitel_6" />
       <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Webprogrammierung\Kapitel_2" />
       <recent name="C:\Dokumente\IntelliJProjects\Semester_3\Webtechnologien\Uebungen\Kapitel_6\jenskitchen" />
@@ -159,7 +176,7 @@
       <workItem from="1569317322049" duration="2406000" />
       <workItem from="1569319877800" duration="675000" />
       <workItem from="1569323664662" duration="20249000" />
-      <workItem from="1569432586336" duration="17589000" />
+      <workItem from="1569432586336" duration="19149000" />
     </task>
     <servers />
   </component>
