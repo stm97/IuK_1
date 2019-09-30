@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}
+img{width: 100%; height: auto}
+
+.column{
+    float: left;
+    padding: 10px;
+
+}
+
+.column.left{
+    width: 20%;
+
+
+
+
+}
+
+.column.right{
+
+    width: 80%;
+
+}
+
